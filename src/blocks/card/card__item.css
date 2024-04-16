@@ -1,0 +1,5 @@
+.card__item {
+  line-height: 0px;
+  min-width: calc(100% - 40px);
+  position: relative;
+}
